@@ -1,0 +1,192 @@
+/* RESET */
+
+html, body, div, h1, h2, h3, ul, ol, li, form, fieldset, select, input, textarea, p {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    background: transparent;
+}
+
+ins {text-decoration: none;}
+
+del {text-decoration: line-through;}
+
+hr {display: none;}
+
+ul, ol {list-style: none;}
+
+img, fieldset {border: none;}
+
+h1, h2, h3 {font-weight: normal;}
+
+em {font-style: italic;}
+
+strong {font-weight: bold;}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+abbr { cursor: help; }
+
+
+body {
+    font-size: 4em;
+    text-align: center;
+}
+
+header {
+    border-top: 6px solid #000;
+}
+
+
+section {
+
+}
+section#header {
+    background: url(images/redsquare.png) repeat;
+    height: 600px;
+    padding-top: 30px;
+
+}
+
+.top {
+    width: 230px;
+    padding-left: 60px;
+    margin: auto;
+}
+
+article.hey {
+    padding-right: 160px;
+    color: #f9c1c1;
+}
+
+article.yo {
+    color: #000;
+}
+
+article.yo h2 {
+    margin-left: 90px;
+}
+
+#samuel {
+    background-image: url(images/samuel.png);
+    height: 190px;
+    width: 227px;
+    margin: -55px auto ;
+    text-indent: -9999px;
+}
+
+
+article.entao {
+    margin-top: 80px;
+    color: #f9c1c1;
+    font-size: 0.4em;
+}
+
+
+article.sucesso {
+    margin: 50px auto 0;
+    color: #f4d501;
+    width: 1150px;
+
+}
+
+
+article.arrow {
+    background: url(images/arow.png) no-repeat center;
+    height: 60px;
+    margin-top: 200px;
+}
+
+#third {
+    float: left;
+    font-size: 1.3em;
+}
+
+#first {
+    float: left;
+    margin-right: 10px;
+    font-size: 1.3em;
+}
+
+
+#second {
+    float: left;
+    margin-right: 10px;
+    font-size: 0.4em;
+    margin-top: 35px;
+}
+
+
+
+
+section#content {
+    background: url(images/old_mathematics.png) repeat;
+    height: 800px;
+    padding-top: 140px;
+
+}
+
+article.reduz {
+    color: #000;
+    background: url(images/line.png) no-repeat center;
+}
+
+
+article.idiota {
+    color: #000;
+    margin-top: 60px;
+    background: url(images/line.png) no-repeat center;
+}
+
+
+article.escopo {
+    color: #000;
+    font-size: 3em;
+    margin-top: 60px;
+}
+
+
+article.resto {
+    margin-top: 500px;
+}
+
+
+
+
+footer {
+    background-color: #000;
+    color: #fff;
+    font-size: 0.4em;
+    height: 200px;
+    padding-top: 100px;
+}
+
+
+footer p {
+    margin-bottom: 20px;
+}
+
+
+a {
+    color: #ee0c0c;
+}
+h1 {
+    font-family: 'Abril Fatface', cursive;
+}
+
+h2 {
+    font-family: 'Gravitas One', cursive;
+}
+
+h3 {
+    font-family: 'Vollkorn', 'Lato', sans-serif;
+}
+
+
